@@ -5,6 +5,9 @@ def add(a,b):
 def subtraction(a, b):
     return a - b
 
+def multiply(a,b):
+    return a*b
+
 print(add(10,5))
 print(subtraction(10, 5))
 
